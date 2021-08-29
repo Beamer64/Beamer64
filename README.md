@@ -5,7 +5,7 @@
  Hey everyone! 👋  
 </h3>
 
-Welcome to my page! My name is Harley and I'm a fulltime/freelance software developer that loves to try new things. I enjoy learning new languages through developing continuously growing projects. I develope new projects both solo or colaborativly with others. I tend to experiment with new technologies by trying to create fun and sometimes useful projects. More information can be found on my website using the link below.
+Welcome to my page! My name is Harley and I'm a full-time/freelance software developer that loves to try new things. I enjoy learning new languages through developing continuously growing projects. I develop new projects both solo or collaboratively with others. I tend to experiment with new technologies by trying to create a fun and sometimes useful projects. More information can be found on my website using the link below.
 
 Thanks for stopping by and have a great day! ☀️
 
