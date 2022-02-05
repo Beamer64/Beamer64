@@ -51,5 +51,5 @@ Thanks for stopping by and have a great day! ☀️
 
 &nbsp;
 <div align=center> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Beamer64&show_icons=true&locale=en&theme-dracula" alt="Beamer64" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Beamer64&show_icons=true&locale=en&theme=tokyonight" alt="Beamer64" /></p>
 </div>
