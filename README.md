@@ -1,6 +1,6 @@
 <h3 align=center>
 
-![](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif?cid=790b7611eb5d7c08c3b90ee67e8e9b2ce1544b4581c3c90c&rid=giphy.gif&ct=g)
+![](https://github.com/Beamer64/Beamer64/blob/master/res/giphy.webp)
   
  Hey everyone! 👋  
 </h3>
