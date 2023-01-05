@@ -23,7 +23,7 @@ Thanks for stopping by and have a great day! ☀️
   </a>
 </div>
 
-<a href="http://harleyroper.com/" target="_blank"><img src="https://github.com/Beamer64/Beamer64/blob/master/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="http://harleyroper.com/" target="_blank"><img src="https://github.com/Beamer64/Beamer64/blob/master/res/github-contribution-grid-snake.svg" alt="snake"></a>
 
 &nbsp;
 
