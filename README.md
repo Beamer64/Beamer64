@@ -22,6 +22,9 @@ Thanks for stopping by and have a great day! ☀️
     <img src="https://img.shields.io/badge/Check%20out-My%20LinkedIn!-blue" alt="shield.png">
   </a>
 </div>
+
+<a href="http://harleyroper.com/" target="_blank"><img src="https://github.com/Beamer64/Beamer64/blob/master/github-contribution-grid-snake.svg" alt="snake"></a>
+
 &nbsp;
 
 ## Technical Skills:
