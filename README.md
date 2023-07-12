@@ -10,7 +10,7 @@ Welcome to my page! My name is Harley and I'm a full-time/freelance software dev
 Thanks for stopping by and have a great day! ☀️
 
 <div align=center> 
-  <a href="http://harleyroper.com/" target="_blank">
+  <a href="https://harleyroper.com/" target="_blank">
     <img src="https://img.shields.io/badge/Check%20out-My%20Website!-brightgreen" alt="shield.png">
   </a>  
 
